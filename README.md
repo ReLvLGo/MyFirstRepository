@@ -1,2 +1,2 @@
-# MyFirstRepository
-Мой первый репозиторий для проекта на GitHub
+# [MyFirstRepository](github.com)
+**Мой первый репозиторий для проекта на GitHub**
